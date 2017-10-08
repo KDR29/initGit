@@ -1,0 +1,14 @@
+{
+  "name": "initsetup",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KR",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
